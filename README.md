@@ -1,4 +1,5 @@
 # resources
+
 Companion material to the workshop series: "Keep Calm &amp; Nice Software"
 
 ## Spanish
@@ -12,6 +13,17 @@ Companion material to the workshop series: "Keep Calm &amp; Nice Software"
 [https://ronjeffries.com/xprog/classics/expemergentdesign/](https://ronjeffries.com/xprog/classics/expemergentdesign/)
 
 [https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design](https://blog.jbrains.ca/permalink/the-four-elements-of-simple-design)
+
+### PHP
+
+4 rules of simple design? PHPUnit agrees :)
+https://phpunit.de/manual/6.5/en/testing-practices.html
+
+Coding standards? PHP agrees :)
+https://en.wikipedia.org/wiki/PHP_Standard_Recommendation
+
+Coding standards? Symfony agrees :)
+[https://symfony.com/doc/current/contributing/code/standards.html](https://symfony.com/doc/current/contributing/code/standards.html)
 
 ### Further reading
 
@@ -34,6 +46,6 @@ From [https://martinfowler.com/bliki/SelfTestingCode.html](https://martinfowler.
 
 - One obvious benefit of self-testing code is that it can drastically reduce the number of bugs that get into production software. At the heart of this is building up a testing culture that where developers are naturally thinking about writing code and tests together.
 
----
+### Tools
 
-[https://symfony.com/doc/current/contributing/code/standards.html](https://symfony.com/doc/current/contributing/code/standards.html)
+https://github.com/phpstan/phpstan
