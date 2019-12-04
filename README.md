@@ -6,3 +6,7 @@ Happy reading! ;)
 * [Good to Know @ PHP ](good-to-know-php.md)
 * [Good to Know @ Software ](good-to-know-software.md)
 * [Martin Fowler](martin-fowler.md)
+* [Others](others.md)
+
+#  Others
+

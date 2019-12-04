@@ -17,6 +17,8 @@
 
     > When you need to add new functionality to the system, write the tests first. Then, you will be done developing when the test runs. This practice will be discussed in detail in the next chapter.
 
+- [PHPUnit Full List Asserts](https://phpunit.readthedocs.io/es/latest/assertions.html) A documentation with all the types of asserts than you can use in PHPUnit
+
 - [PHPStan](https://github.com/phpstan/phpstan) is a static analysis tool which allows you to discover bugs in your code without running it.
 
 - [RigorTalks](https://www.youtube.com/watch?v=aKcmbOZV9mA&list=PLfgj7DYkKH3Cd8bdu5SIHGYXh_bPV2idP) The YouTube Channel of [Carlos BuenosVinos](https://twitter.com/buenosvinos) (**Head of Code in SEAT**) who talks abouts PHP in his channel is Spanish. 
