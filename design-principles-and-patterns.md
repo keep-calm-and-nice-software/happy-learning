@@ -26,7 +26,7 @@
 
 > Honestly, S.O.L.I.D might seem to be a handful at first, but with continuous usage and adherence to its guidelines, it becomes a part of you and your code which can easily be extended, modified, tested, and refactored without any problems.
 
-- [Evil Design Patterns](https://javaranch.com/patterns/), by Paul Wheaton(?)
+- [PHP The Wrong way](https://phpthewrongway.com/#always-use-a-design-pattern) referencing [Evil Design Patterns](https://javaranch.com/patterns/), by Paul Wheaton(?)
 
 ## Collections
 
