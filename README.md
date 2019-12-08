@@ -1,12 +1,5 @@
-# What else?
+# happy-reading
 
-Happy reading! ;)
+This repository contains companion material to the workshop series, including bibliography & additional resources.
 
-* [Simple Design](simple-design.md)
-* [Good to Know @ PHP ](good-to-know-php.md)
-* [Good to Know @ Software ](good-to-know-software.md)
-* [Martin Fowler](martin-fowler.md)
-* [Others](others.md)
-
-#  Others
-
+Content is organized by topics and authors. Feel free to explore the Markdown files at your own risk :)
