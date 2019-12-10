@@ -18,3 +18,7 @@ From [The Four Elements of Simple Design](https://blog.jbrains.ca/permalink/the-
 
 > I have reduced everything I've ever learned about modular design to the four elements of simple design that I first learned from Kent Beck’s work. Maybe you can, too.
 
+
+From [Putting An Age-Old Battle To Rest](https://blog.thecodewhisperer.com/permalink/putting-an-age-old-battle-to-rest), by J.B. Rainsberger:
+
+> I have been teaching for years about how to reduce the four elements of simple design to two: after several months, I don’t think about writing tests any more—I simply call that “programming”—and I’ve never seen a well-factored code base that had an order of magniture too many elements. With these two points out of the way, I guide my design with two basic rules: remove duplication and improve names. I’ve started thinking about these guidelines a little differently.
