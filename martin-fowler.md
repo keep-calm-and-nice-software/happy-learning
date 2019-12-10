@@ -17,3 +17,7 @@
 > Self-testing code is a key part of [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html), indeed I say that you aren't really doing continuous integration unless you have self-testing code. As a pillar of Continuous Integration, it is also a necessary part of [Continuous Delivery](https://martinfowler.com/delivery.html).
 
 > One obvious benefit of self-testing code is that it can drastically reduce the number of bugs that get into production software. At the heart of this is building up a testing culture that where developers are naturally thinking about writing code and tests together.
+
+- From [BeckDesignRules](https://martinfowler.com/bliki/BeckDesignRules.html):
+
+> Kent said "In the rare case they are in conflict (in tests are the only examples I can recall), empathy wins over some strictly technical metric." I like his point about empathy - it reminds us that when writing code we should always be thinking of the reader.
