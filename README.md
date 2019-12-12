@@ -1,6 +1,6 @@
 # happy-reading
 
-Hi, I'm the living repository provided as companion material to the technical training series “Keep Calm & Nice Software”, so far facilitated at:
+Hi, I'm the living repository provided as part of the companion material to the technical training series “Keep Calm & Nice Software”, so far facilitated at:
 
 - [Grupo Isastur](https://www.isastur.com) @ Asturias, Spain (December 2019)
 - Your team, company or local community @ somewhere? (from March / April 2020 onwards)
@@ -26,6 +26,6 @@ Nice! Feel free to add an issue or to directly submit a PR, we'll be happy to re
 - Material-wise? Yes. 
 - Facilitation-wise? We are able (and happy) to run the training sessions in English, Spanish, German and Italian :) 
 
-## Something else?
+## What else?
 
-Yes. Have fun & happy learning!
+Happy learning!
