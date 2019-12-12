@@ -3,7 +3,7 @@
 Hi, I'm the living repository provided as companion material to the technical training series “Keep Calm & Nice Software”, so far facilitated at:
 
 - [Grupo Isastur](https://www.isastur.com) @ Asturias, Spain (December 2019)
-- Your company @ somewhere? (from March / April 2020 onwards)
+- Your team, company or local community @ somewhere? (from March / April 2020 onwards)
 
 ## Overview
 
