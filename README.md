@@ -23,7 +23,7 @@ Nice! Feel free to add an issue or to directly submit a PR, we'll be happy to re
 
 ## Only in English?
 
-- Material-wise? Yes. 
+- Material-wise? Mostly. 
 - Facilitation-wise? We are able (and happy) to run the training sessions in English, Spanish, German and Italian :) 
 
 ## What else?
