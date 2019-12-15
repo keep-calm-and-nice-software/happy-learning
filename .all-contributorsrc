@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jonatanmdez",
+      "name": "Jonatan Menéndez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6991527?v=4",
+      "profile": "https://www.jonatanmc.es",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "happy-learning",
+  "projectOwner": "keep-calm-and-nice-software",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
