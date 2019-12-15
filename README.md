@@ -3,16 +3,18 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Hi, I'm the living repository provided as part of the companion material to the technical training series “Keep Calm & Nice Software”, so far facilitated at:
+Companion material to “Keep Calm & Nice Software”, technical training series so far delivered at:
 
-- [Grupo Isastur](https://www.isastur.com) @ Asturias, Spain (December 2019)
-- Your team, company or local community @ somewhere? (from March / April 2020 onwards)
+- [Grupo Isastur](https://www.isastur.com) @ Asturias, Spain (November-December 2019)
+- Your team, company, or local community @ anywhere? (From March 2020 onwards)
 
-## The sessions
+Interested to facilitate yourselves? [DIY](https://github.com/keep-calm-and-nice-software/DIY) might be what you are looking for ;) 
 
-- #1 focuses on `simple-design.md`.
-- #2 focuses on `design-principles-and-patterns.md`.
-- #3 focuses on `refactoring.md`.
+## The sessions (workshops)
+
+- Workshop #1 focuses on `simple-design.md`.
+- Workshop #2 focuses on `design-principles-and-patterns.md`.
+- Workshop #3 focuses on `refactoring.md`.
 
 ## Pero… just English?
 
