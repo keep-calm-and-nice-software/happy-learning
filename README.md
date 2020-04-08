@@ -12,9 +12,13 @@ Interested to facilitate yourselves? [DIY](https://github.com/keep-calm-and-nice
 
 ## The sessions (workshops)
 
-- Workshop #1 focuses on `simple-design.md`.
-- Workshop #2 focuses on `design-principles-and-patterns.md`.
-- Workshop #3 focuses on `refactoring.md`.
+KC&NS is divided into three sessions: 
+
+- Session / workshop #1 focuses on [`simple-design.md`](/topics/simple-design.md).
+- Session / Workshop #2 focuses on [`design-principles-and-patterns.md`](/topics/design-principles-and-patterns.md).
+- Session / Workshop #3 focuses on [`refactoring.md`](/topics/refactoring.md).
+
+Additionally, participants are encouraged to leverage more core Extreme Programming practices such as pair programming or Test-Driven Development (TDD).
 
 ## Pero… just English?
 
